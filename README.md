@@ -3,7 +3,7 @@ I exist. I think
 
 I do Computer Science.
 
-If my website doesnt work its because I set it to only allow my own ip only.
+If my website doesnt work its because I set it to only allow my own ip only (until I upgrade my server).
 
 I also don't post on social media.
 
