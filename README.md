@@ -1,7 +1,9 @@
 ## Hi there 👋
 I exist. I think
 
-If my website doesnt work its because I set it to local ip only
+I do Computer Science.
+
+If my website doesnt work its because I set it to only allow my own ip only.
 
 I also don't post on social media.
 
