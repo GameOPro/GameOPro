@@ -1,5 +1,9 @@
 ## Hi there 👋
 I exist. I think
+
+If my website doesnt work its because I set it to local ip only
+
+I also don't post on social media.
 <!--
 **GameOPro/GameOPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
