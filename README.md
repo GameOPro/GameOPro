@@ -3,9 +3,7 @@ I exist. I think
 
 I do Computer Science.
 
-If my website doesnt work its because I set it to only allow my own ip only (until I upgrade my server and get a switch+firewall).
-
-I also don't post on social media.
+I don't post on social media.
 
 Discord is the same as my github username (GameOPro) if you want to add me or something
 <!--
